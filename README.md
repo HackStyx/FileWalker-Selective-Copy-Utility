@@ -22,7 +22,7 @@ The Selective Copy Tool is a versatile and efficient solution for selectively co
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/SelectiveCopyTool.git 
+   git clone https://github.com/HackStyx/SelectiveCopyTool.git 
 
 2.  **Navigate to Project Directory:**
     
